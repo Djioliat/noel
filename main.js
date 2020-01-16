@@ -6,7 +6,6 @@ var dodger = {
     game.load.image('fond', 'images/imgfond2.jpg');
     game.load.image('player', 'images/image1.png');
     game.load.image('boule', 'images/boule.png');
-    this.load.audio("music", ["music/noel.mp3"]);
   },
   create: function() {
     // affichage + setup
